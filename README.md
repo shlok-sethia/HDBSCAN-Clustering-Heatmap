@@ -1,7 +1,7 @@
 <h1 align= "center">Heatmaps using HDBScan Clustering</h1>
 
-![Issues](https://img.shields.io/github/issues/shloksethia-6119/Clustering-Heatmap)
-[![License](https://img.shields.io/github/license/shloksethia-6119/Clustering-Heatmap)](https://github.com/shloksethia-6119/Clustering-Heatmap/blob/master/LICENSE)
+![Issues](https://img.shields.io/github/issues/shlok-sethia/HDBScan-Clustering-Heatmap)
+[![License](https://img.shields.io/github/license/shlok-sethia/HDBScan-Clustering-Heatmap)](https://github.com/shlok-sethia/HDBScan-Clustering-Heatmap/blob/master/LICENSE)
 
 Using Florida Property Insurance data to identify red hot and cold blue areas for potential targeting. Clustering is performed to segregate data points into a number of clusters based on areas such that data points in the same area are in close proximity to other data points in the same area than those in other areas. In simple words, the aim is to segregate groups with similar traits and assign them into clusters.
 
