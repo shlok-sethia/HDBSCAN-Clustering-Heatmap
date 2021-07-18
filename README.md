@@ -17,7 +17,6 @@ https://shlok-sethia.github.io/HDBSCAN-Clustering-Heatmap/Heatmaps/florida_heatm
 
 <p align="center"><img src="./readme_assets/florida_map.png"></p>
 
-
 Clearly, Miami is the hotspot for Property Insurance as seen above. To get a better picture we focus on Miami and generate a focused heatmap.
 To view the output "Miami Heatmap" click on To view this file go to 
 
