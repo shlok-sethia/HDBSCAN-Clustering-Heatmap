@@ -11,14 +11,14 @@ HDBSCAN - Hierarchical Density-Based Spatial Clustering of Applications with Noi
 In practice this means that HDBSCAN returns a good clustering straight away with little or no parameter tuning -- and the primary parameter, minimum cluster size, is intuitive and easy to select.
 
 # Florida Heatmap using HDBSCAN Clustering and Basemap
-To view the output "Florida Heatmap" click on To view this file go to 
+To view the output "Florida Heatmap" click on the link below 
 
 https://shlok-sethia.github.io/HDBSCAN-Clustering-Heatmap/Heatmaps/florida_heatmap.html
 
 <p align="center"><img src="./readme_assets/florida_map.png"></p>
 
 Clearly, Miami is the hotspot for Property Insurance as seen above. To get a better picture we focus on Miami and generate a focused heatmap.
-To view the output "Miami Heatmap" click on To view this file go to 
+To view the output "Miami Heatmap" click on the link below
 
 https://shlok-sethia.github.io/HDBSCAN-Clustering-Heatmap/Heatmaps/miami_heatmap.html
 
